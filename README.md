@@ -19,7 +19,7 @@ Praticar e consolidar conceitos básicos de programação em Python: tomadas de 
 5. **Validador de Senha Simples** – arquivo `Validador de Senha Simples.py`
    Verifica se a senha digitada atende a critérios básicos (tamanho, caracteres, etc).
 
-## Dificuldades comuns e dicas
+## Dificuldades
 
 * Validar a entrada do usuário (por exemplo, garantir que seja um número, evitar erros de digitação).
 * Verificar e tratar casos extremos (como zero, negativo, entradas inválidas).
